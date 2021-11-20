@@ -19,6 +19,8 @@ public class Autot {
 		auto1.tankkaa(5);
 		
 		auto2.naytaTiedot();
+
+        System.out.println("Muutos Git harjoitusta varten.");
 		
 	}
 
